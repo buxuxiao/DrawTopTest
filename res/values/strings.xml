@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrawerTopTest</string>
+    <string name="hello_world">Hello world!</string>
+
+    <color name="pressed_color">#ff0000</color>
+    <color name="unpressed_color">#00ff00</color>
+
+</resources>
